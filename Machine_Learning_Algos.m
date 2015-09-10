@@ -4,7 +4,8 @@
 % and thus applies machine learning algorithms.
 
 %% Clearing Out Screen
-%
+% This part of the code snippet should be deleted if using as a 
+% function
 clear all
 clc
 
